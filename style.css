@@ -1,0 +1,57 @@
+h1,em
+{
+	color:pink;
+}
+p
+{
+	color:#B1C27A;
+}
+strong
+{
+	color:#C1B38E;
+}
+h2 
+{
+	color :#F9CD97;
+}
+h2
+{
+	color:#F9CD97;
+}
+li
+{
+	color:#9FA3E3;
+}
+p
+{
+	font-size:large;
+}
+h1
+{
+	font-size:xx-large;
+}
+
+h1 
+{
+	font-family:Georgia,"Courrier New",sans-serif;
+}
+li
+{
+	font-style : italic;
+}
+h1,p,h2,li,a 
+{
+	text-align:center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+body{background-color: white;
+}
+body
+{
+	width:100%
+}
